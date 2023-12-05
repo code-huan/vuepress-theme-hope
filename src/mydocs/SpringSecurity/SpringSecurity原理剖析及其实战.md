@@ -16,6 +16,7 @@ tag:
 sticky: true
 # 此页面会出现在文章收藏中
 star: true
+headerDepth: 6
 footer: JackHuan
 copyright: 版权所有 © 2023-present JackHuan
 ---

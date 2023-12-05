@@ -121,6 +121,10 @@ export default hopeTheme({
       // vuePlayground: true,
     },
 
+    //mobile copy
+    copyCode:{
+      showInMobile: true,
+    }
     
   },
 });
