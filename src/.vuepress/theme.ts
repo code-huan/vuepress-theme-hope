@@ -6,7 +6,7 @@ export default hopeTheme({
   hostname: "https://vuepress-theme-hope-docs-demo.netlify.app",
 
   author: {
-    name: "Mr.Hope",
+    name: "JackHuan",
     url: "https://mister-hope.com",
   },
 
@@ -30,7 +30,7 @@ export default hopeTheme({
 
   encrypt: {
     config: {
-      "/mydocs/encrypt.html": ["1234"],
+      "/mydocs/vps相关/": ["vps"],
     },
   },
 
