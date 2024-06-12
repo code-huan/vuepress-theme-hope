@@ -13,7 +13,7 @@ category:
 tag:
   - works
   - cloudfare
-  - dokcer
+  - docker
 
 # 此页面会在文章列表置顶
 # sticky: true
